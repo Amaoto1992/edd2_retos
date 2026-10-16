@@ -5,6 +5,7 @@ import 'reto03/reproductor_page.dart';
 import 'reto04/pila_libros_page.dart';
 import 'reto05/cola_cajero_page.dart';
 import 'reto08/arbol_binario_page.dart';
+import 'reto09/menu_lateral_page.dart';
 
 /// Un reto del curso: título, descripción y la página que lo muestra.
 class Reto {
@@ -40,5 +41,10 @@ final List<Reto> retos = [
     'Reto 08 · Árbol binario',
     'Recorridos, búsqueda y dibujo del árbol',
     (context) => const ArbolBinarioPage(),
+  ),
+  Reto(
+    'Reto 09 · Árbol N-ario',
+    'Menú lateral armado desde el árbol',
+    (context) => const MenuLateralPage(),
   ),
 ];
