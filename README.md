@@ -13,6 +13,7 @@ se fusionan en `main`.
 | `reto-04-pila-libros` | 04 | Pila de libros con formulario |
 | `reto-05-cola-cajero` | 05 | Cola del cajero ordenada por fecha de llegada |
 | `reto-08-arbol-binario` | 08 | Árbol binario: inorder, preorder, postorder, búsqueda y dibujo |
+| `reto-09-arbol-nario` | 09 | Menú lateral construido desde un árbol N-ario |
 
 ## Ejecutar
 
