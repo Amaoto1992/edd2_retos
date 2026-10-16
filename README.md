@@ -10,6 +10,7 @@ se fusionan en `main`.
 | Rama | Reto | Qué hace |
 | ---- | ---- | -------- |
 | `reto-03-listas` | 03 | Lista enlazada (reproductor) y lista doble (historial del navegador) |
+| `reto-04-pila-libros` | 04 | Pila de libros con formulario |
 
 ## Ejecutar
 

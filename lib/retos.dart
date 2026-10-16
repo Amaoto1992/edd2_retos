@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'reto03/historial_page.dart';
 import 'reto03/reproductor_page.dart';
+import 'reto04/pila_libros_page.dart';
 
 /// Un reto del curso: título, descripción y la página que lo muestra.
 class Reto {
@@ -22,5 +23,10 @@ final List<Reto> retos = [
     'Reto 03 · Lista doblemente enlazada',
     'Historial del navegador: atrás y adelante',
     (context) => const HistorialPage(),
+  ),
+  Reto(
+    'Reto 04 · Pila',
+    'Pila de libros con formulario',
+    (context) => const PilaLibrosPage(),
   ),
 ];
