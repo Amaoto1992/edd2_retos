@@ -11,6 +11,7 @@ se fusionan en `main`.
 | ---- | ---- | -------- |
 | `reto-03-listas` | 03 | Lista enlazada (reproductor) y lista doble (historial del navegador) |
 | `reto-04-pila-libros` | 04 | Pila de libros con formulario |
+| `reto-05-cola-cajero` | 05 | Cola del cajero ordenada por fecha de llegada |
 
 ## Ejecutar
 
