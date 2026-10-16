@@ -15,6 +15,7 @@ se fusionan en `main`.
 | `reto-08-arbol-binario` | 08 | Árbol binario: inorder, preorder, postorder, búsqueda y dibujo |
 | `reto-09-arbol-nario` | 09 | Menú lateral construido desde un árbol N-ario |
 | `reto-10-grafos` | 10 | Grafo de amigos y ciudades |
+| `reto-11-trie-heap` | 11 | Buscador por prefijo (Trie) con top K (Heap) |
 
 ## Ejecutar
 

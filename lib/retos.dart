@@ -7,6 +7,7 @@ import 'reto05/cola_cajero_page.dart';
 import 'reto08/arbol_binario_page.dart';
 import 'reto09/menu_lateral_page.dart';
 import 'reto10/grafo_page.dart';
+import 'reto11/buscador_page.dart';
 
 /// Un reto del curso: título, descripción y la página que lo muestra.
 class Reto {
@@ -52,5 +53,10 @@ final List<Reto> retos = [
     'Reto 10 · Grafo',
     'Amigos y ciudades',
     (context) => const GrafoPage(),
+  ),
+  Reto(
+    'Reto 11 · Trie + Heap',
+    'Buscador por prefijo con top K',
+    (context) => const BuscadorPage(),
   ),
 ];
