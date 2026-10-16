@@ -1,17 +1,22 @@
-# edd2_retos
+# Estructuras de Datos II - Retos
 
-A new Flutter project.
+Universidad Autónoma de Occidente · Danny Castrillón
 
-## Getting Started
+Retos del curso hechos en Flutter. Cada reto está en su propia rama y todas
+se fusionan en `main`.
 
-This project is a starting point for a Flutter application.
+## Ramas
 
-A few resources to get you started if this is your first Flutter project:
+| Rama | Reto | Qué hace |
+| ---- | ---- | -------- |
+| `reto-03-listas` | 03 | Lista enlazada (reproductor) y lista doble (historial del navegador) |
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Ejecutar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
+
+La pantalla de inicio lista los retos; cada uno abre su página. Los recorridos
+y estructuras también se imprimen en la consola (pestaña Run).
